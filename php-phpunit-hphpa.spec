@@ -13,6 +13,7 @@ BuildRequires:	php-channel(pear.phpunit.de)
 BuildRequires:	php-pear-PEAR >= 1:1.9.4
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 BuildRequires:	rpmbuild(macros) >= 1.610
+Requires:	/usr/bin/hhvm
 Requires:	php-channel(pear.phpunit.de)
 Requires:	php-ezc-ConsoleTools >= 1.6
 Requires:	php-pear
