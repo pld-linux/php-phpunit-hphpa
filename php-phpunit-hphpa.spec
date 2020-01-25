@@ -1,5 +1,4 @@
 %define		pearname	hphpa
-%include	/usr/lib/rpm/macros.php
 Summary:	Convenience wrapper for HipHop's static analyzer
 Name:		php-phpunit-hphpa
 Version:	1.3.0
